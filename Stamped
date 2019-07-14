@@ -1,0 +1,4 @@
+create table Customer(
+ID int ,
+Name varchar(255),
+Addresss nvarchar (255))
